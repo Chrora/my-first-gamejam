@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Sword
+  - Shield
+  - Enemies
+  - Allies
+  - PauseUI
+  - Money
+  - MeleeWeapon
+  - RangeWeapon
+  - Gate
+  - AllySword
+  - AllySpear
+  - AllyBow
+  - AllyGun
+  - AllReborn
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Weapon
+  - Player
+  - Arrow
+  - Shield
+  - EnemyArrow
+  - Enemies
+  - EnemyWeapon
+  - Bow
+  - Gate
+  - TowerBullet
+  - Wall
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Chracters
+    uniqueID: 3260651301
+    locked: 0
+  - name: Trap
+    uniqueID: 894199611
+    locked: 0
